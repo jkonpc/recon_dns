@@ -25,7 +25,7 @@ Designed for attack surface mapping, internal inventory, and authorized security
 ## Installation
 
 ```bash
-git clone https://github.com/jkonpc/recon-dns.git
+git clone https://github.com/jkonpc/recon_dns.git
 cd dns-recon
 pip install -r requirements.txt
 ```
